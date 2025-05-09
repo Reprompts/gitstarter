@@ -1,5 +1,7 @@
 # gitstarter
 
+![Downloads](https://static.pepy.tech/badge/gitstarter/month)  
+
 **Hybrid Streamlit UI** that automates Git-CLI workflows for beginners and GitHub-API tasks for power users—all from your local directory.
 
 ---
